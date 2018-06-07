@@ -1,1 +1,1 @@
-Demonstrate Word Count using Hadoop NEW API
+Demonstrate Word Count using Hadoop New API

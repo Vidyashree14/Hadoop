@@ -1,2 +1,3 @@
 # Hadoop
+
 This repository is dedicated to hadoop related activities i.e. programs, notes, etc...
